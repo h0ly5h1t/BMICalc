@@ -13,3 +13,18 @@ C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Кал
 C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.pdb
 C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.genruntimeconfig.cache
 C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\ref\Калькулятор ИМТ.dll
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\bin\Debug\net6.0\Калькулятор ИМТ.exe
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\bin\Debug\net6.0\Калькулятор ИМТ.deps.json
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\bin\Debug\net6.0\Калькулятор ИМТ.runtimeconfig.json
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\bin\Debug\net6.0\Калькулятор ИМТ.dll
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\bin\Debug\net6.0\Калькулятор ИМТ.pdb
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.csproj.AssemblyReference.cache
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.AssemblyInfoInputs.cache
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.AssemblyInfo.cs
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.csproj.CoreCompileInputs.cache
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.dll
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\refint\Калькулятор ИМТ.dll
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.pdb
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\Калькулятор ИМТ.genruntimeconfig.cache
+C:\Users\conte\OneDrive\Рабочий стол\проекты сшарп\Для гитхаба\Калькулятор ИМТ\Калькулятор ИМТ\obj\Debug\net6.0\ref\Калькулятор ИМТ.dll
